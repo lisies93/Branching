@@ -15,6 +15,8 @@
 
 * `git config --list` - list current git configuration
 
+* `git config --help` - list options and syntax for git config
+
 
 ### Branching Commands
 * `git branch -M newName` - Rename current branch to `newName`
