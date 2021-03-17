@@ -20,3 +20,5 @@
 * `git branch newBranch` - Create Branch `newBranch`
 
 * `git branch` - list local branches, indicating current branches
+
+* `git checkout newBranch` - Make `newBranch` the current branches
