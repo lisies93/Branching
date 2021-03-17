@@ -15,6 +15,9 @@
 
 * `git config --list` - list current git configuration
 
+* `git config --help` - list options and syntax for git config
+
+
 ### Remote Commands
 * `git pull origin main` - pull remote branch `main` to current local branch
 
